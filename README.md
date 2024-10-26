@@ -1,5 +1,5 @@
 @@ -0,0 +1,47 @@
-<h2 align="left">Hi 👋! My name is Sonalika and I'm a Software Developer, from Varanasi</h2>
+<h2 align="left">Hi 👋! My name is Sonalika and I'm a Web Developer, from Varanasi</h2>
 
 ###
 
