@@ -40,6 +40,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sonalika003&theme=darkhub&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ### 🌐 Connect with me
 <div align="center">
   <a href="mailto:sonalikachaudhari43@gmail.com">
