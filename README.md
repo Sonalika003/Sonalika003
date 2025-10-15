@@ -6,7 +6,7 @@
 
 👩‍💻 Passionate about building scalable web apps with **JavaScript, React, Node.js, and MongoDB**  
 📚 Currently exploring **Next.js, DSA, and AI-powered apps**  
-🌱 Love learning by building real-world projects like **Crypto Cricket Fantasy App, PlotHub, MLM System, Bag Shopping Website, Quote Hub**, and more  
+🌱 Love learning by building real-world projects like **PlotHub, MLM System,Social Media App, PDF Tool, Quote Hub**  
 🤝 Open to collaboration on exciting **web development & AI/ML projects**  
 ⚡ Fun fact: I learn best by **code examples & late-night coding marathons**  
 
